@@ -40,4 +40,3 @@ class Solution:
         if goal in double_s:
             return True
         return False
-# https://docs.google.com/document/d/1iHnjJK4cjCK3TYxdDutV__1PqhDVc-dR5bvDvRvuyro/edit?tab=t.0
