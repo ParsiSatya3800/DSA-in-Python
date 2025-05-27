@@ -1,5 +1,3 @@
-# https://docs.google.com/document/d/1iHnjJK4cjCK3TYxdDutV__1PqhDVc-dR5bvDvRvuyro/edit?tab=t.0
-
 # Given two strings s and goal, return true if and only if s can become goal after some number of shifts on s.
 
 # A shift on s consists of moving the leftmost character of s to the rightmost position.
